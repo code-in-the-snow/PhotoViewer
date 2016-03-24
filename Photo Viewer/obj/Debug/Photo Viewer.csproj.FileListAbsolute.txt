@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2013\Photo Viewer\Photo Viewer\bin\Debug\Photo Viewer.exe.config
+c:\users\owner\documents\visual studio 2013\Photo Viewer\Photo Viewer\bin\Debug\Photo Viewer.exe
+c:\users\owner\documents\visual studio 2013\Photo Viewer\Photo Viewer\bin\Debug\Photo Viewer.pdb
+c:\users\owner\documents\visual studio 2013\Photo Viewer\Photo Viewer\obj\Debug\Photo Viewer.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2013\Photo Viewer\Photo Viewer\obj\Debug\Photo_Viewer.frmViewer.resources
+c:\users\owner\documents\visual studio 2013\Photo Viewer\Photo Viewer\obj\Debug\Photo_Viewer.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2013\Photo Viewer\Photo Viewer\obj\Debug\Photo Viewer.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2013\Photo Viewer\Photo Viewer\obj\Debug\Photo Viewer.exe
+c:\users\owner\documents\visual studio 2013\Photo Viewer\Photo Viewer\obj\Debug\Photo Viewer.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Photo Viewer\Photo Viewer\obj\Debug\Photo_Viewer.frmOptions.resources
